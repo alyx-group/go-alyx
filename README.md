@@ -5,7 +5,7 @@
     mainnet: 1314
     testnet: 135
 ### RPC Endpoint
-    https://rpc-alyxchain.com
+    https://rpc.alyxchain.com
     https://testnet-rpc.alyxchain.com
         
 ## Launch Full Node
